@@ -1,0 +1,21 @@
+{
+  "name": "brandon_zambrano/empiric",
+  "description": "Koombea Technical Test",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Brandon Zambrano",
+      "email": "soloungamer@yahoo.com"
+    }
+  ],
+  "require": {
+    "phpmailer/phpmailer": "^6.1",
+    "firebase/php-jwt": "^5.2",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "ext-mysqli": "*",
+    "ext-mbstring": "*",
+    "twig/twig": "^3.0",
+    "ext-pdo": "*"
+  }
+}

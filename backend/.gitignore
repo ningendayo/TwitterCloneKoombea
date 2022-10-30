@@ -1,0 +1,9 @@
+/composer.lock
+/vendor/
+/configs.php
+/package-lock.json
+/tmpResources
+/resources/
+/tempFiles/
+/token.json
+.htaccess
