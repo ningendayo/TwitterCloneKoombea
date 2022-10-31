@@ -1,7 +1,7 @@
 # TwitterCloneKoombea
-1) Importar la base de datos [nombre => twitter , user=> root, pass=>]
-2) Colocar Dentro de la carpeta del servidor con el nombre TwitterCloneKoombea
-3) Instalar Dependencias en el backend composer install
+1) Importar la base de datos
+2) La configuracion de la base de datos es [nombre => twitter , user=> root, pass=>] pero puede ser cambiada en /backend/configs.php
+3) Colocar todo el Proyecto dentro de una carpeta llamada TwitterCloneKoombea en la raiz del servidor.
 4) Utilizar.
 
 Nota:
